@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main {
+  padding: 5px;
+  margin: 5px;
+  border-radius: 3%;
+  display: inline-block;
+  border: solid 4px black;
+  height: 400px;
+  width: 350px;
+}
+.title {
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 20px ;
+}
+.price{
+  margin-top: 20px ;
+  text-align: left;
+  font-size: 40px;
+  font-weight: 700;
+}
+.unlim{
+  font-weight: 600;
+  margin-top: 25px ;
+}
+.min {
+  display: flex;
+  font-weight: 700;
+  margin-top: 5px; 
+}
+.gb {
+  font-weight: 700;
+  margin-top: 5px; 
+}
